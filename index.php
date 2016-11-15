@@ -8,5 +8,6 @@
     <p>Hallo beste 2MD, we gaan samen een nieuw project via Git maken.</p>
     <p>Je maakt een nieuwe branch van dit project en doet een aanpassing.</p>
     <p>Het is het jaar: <?php echo date('Y'); ?></p>
+    <p>De tijd is: <?php echo date("h:i:sa"); ?></p>
 </body>
 </html>
