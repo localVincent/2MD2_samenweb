@@ -9,5 +9,8 @@
     <p>Je maakt een nieuwe branch van dit project en doet een aanpassing.</p>
     <p>Het is het jaar: <?php echo date('Y'); ?></p>
     <p>De tijd is: <?php echo date("h:i:sa"); ?></p>
+	<?php
+		echo "hallo, ik ben een git pro!";
+	?>
 </body>
 </html>
